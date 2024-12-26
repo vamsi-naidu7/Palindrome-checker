@@ -46,8 +46,7 @@ Sanapathi Vamsi Naidu - [LinkedIn](https://www.linkedin.com/in/sanapathi-vamsi-n
 
 Project Link: [https://github.com/vamsi-naidu7/Palindrome-checker](https://github.com/vamsi-naidu7/Palindrome-checker)
 
-## Acknowledgements
-- Thank you for visiting and using this project!
+
 
 ---
 ![Screenshot 2024-12-26 103324](https://github.com/user-attachments/assets/1f3941e4-87c9-4b50-9230-94341f7282e4)
@@ -62,3 +61,7 @@ In above image we have checked for "WOW" is a palindrome and we got the output a
 <img width="335" alt="image" src="https://github.com/user-attachments/assets/76fbd561-b763-4951-b5f5-1f69053e0b0c" />
 
 Here we checked for "123" which is not a palindrome
+
+---
+## Acknowledgements
+- Thank you for visiting and using this project!
