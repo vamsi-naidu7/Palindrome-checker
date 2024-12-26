@@ -7,3 +7,8 @@ this project checks wheather the word is palindrome or not
 
 ![image](https://github.com/user-attachments/assets/17d49afb-b34c-4a2a-823a-cee3e3489023)
 
+In above image we have checked for "WOW" is a palindrome and we got the output as palindrome..
+
+<img width="335" alt="image" src="https://github.com/user-attachments/assets/76fbd561-b763-4951-b5f5-1f69053e0b0c" />
+
+Here we checked for "123" which is not a palindrome
