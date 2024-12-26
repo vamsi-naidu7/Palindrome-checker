@@ -1,4 +1,3 @@
-Here's a suggested content for the README file of your "Palindrome Checker" project on GitHub:
 
 ---
 
