@@ -44,9 +44,6 @@ Contributions are what make the open-source community such an amazing place to l
 ## Contact
 Sanapathi Vamsi Naidu - [LinkedIn](https://www.linkedin.com/in/sanapathi-vamsi-naidu-471538297) - [Instagram](https://www.instagram.com/vamsi_naidu__7)
 
-Project Link: [https://github.com/vamsi-naidu7/Palindrome-checker](https://github.com/vamsi-naidu7/Palindrome-checker)
-
-
 
 ---
 ![Screenshot 2024-12-26 103324](https://github.com/user-attachments/assets/1f3941e4-87c9-4b50-9230-94341f7282e4)
